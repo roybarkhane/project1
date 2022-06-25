@@ -11,7 +11,7 @@ f.addEventListener('submit',(e)=>{
     const date= new Date();
     console.log(date);
     document.querySelector("main").innerHTML=`
-    <div class="logo"><img src="logo.jpg" alt=""></div>
+    <div class="logo"><img src="logo.png" alt=""></div>
 <h2 class="company-name">
 Giant Waterproofing Co.
 </h2>
@@ -97,18 +97,19 @@ Giant Waterproofing Co.
     </ol>
 </dl>
 </p>
-<h2 class="procedure">Waterproofing with Procedure (7 layer)</h2>
+<h2 class="procedure">Waterproofing with Procedure (7 Layer)</h2>
 <p class="description">
 <ol style="margin-left: 50px; line-height:1.8rem; font-weight:600; font-style:italic;">
     <li>Clean the surface by rubbing with wire brush & other mechanical tools to remove dust, and other
         loose materials. Repairing of Cracks work will be carried out as per requirement on Basement by
         RainPrime with cement.</li>
-    <li>Apply 1st Coat.( Neno Coat) Giant RainPrime and RainSiller.</li>
-    <li>Apply 2nd coating of Giant Fibermesh.</li>
-    <li>Apply 3rd & 4h coating of Giant WCC 303 & Giant CP Binding with cement (Highly waterproofing & crack
+    <li>Apply 1st Coat.( Neno Coat) Giant RainSiller.</li>
+    <li>Apply 2nd Coating of Giant Fibermesh.</li>
+    <li>Apply 3rd & 4h coating of Giant RainPrime with cement (Highly waterproofing & crack
         resistant coating).</li>
-    <li>Apply 5 th & 6th & 7th perpendicular coats of SafeCoat without dilution. Highly waterproofing &
-        crack resistant coating).</li>
+    <li>Apply 5th & 6th & 7th perpendicular coats of SafeCoat without dilution. Highly waterproofing &
+        crack resistant coating).</li>  
+        
 </ol>
 </p>
 <h2 class="area-detail-heading">Area Details Provided By Candidate</h2>
@@ -144,22 +145,14 @@ Giant Waterproofing Co.
         </tr>
         <tr>
             <td>3</td>
-            <td>WCC 303</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>CP Binding</td>
-        </tr>
-        <tr>
-            <td>5</td>
             <td>SafeCoat</td>
         </tr>
         <tr>
-            <td>6</td>
+            <td>4</td>
             <td>Fibermesh</td>
         </tr>
         <tr>
-            <td>7</td>
+            <td>5</td>
             <td>Cement</td>
         </tr>
     </tbody>
@@ -183,7 +176,7 @@ Giant Waterproofing Co.
                 </li>
                 <li>
                     <dt>Validity:</dt>
-                    <dd>Our quotation is valid for a period of 30 days from this date and validitythereof is subject our final confirmation.</dd>
+                    <dd>Our quotation is valid for a period of 12 days from this date and validitythereof is subject our final confirmation.</dd>
                 </li>
                 <li>
                     <dt>General:</dt>
@@ -213,14 +206,14 @@ Giant Waterproofing Co.
                     <dd>Necessary construction water and power required forexecution of our work should be provided free of cost by you.</dd>
                 </li>
             </ol>
-            <h4 style="border:1px solid blue; padding: 20px; margin-top:20px;">Warranty : 12 years (Twelve Years) (from the date of completion of the work )
+            <h4 style="border:1px solid blue; padding: 20px; margin-top:20px;">Warranty : 8 Years (Eight Years) (from the date of completion of the work )
                 </h4>
             
         </dl>
     </p>
     <div class="company-details">
         <h2>Bank Account Details[HDFC Bank]</h2>
-        <h3>Co Name: Giant WaterProofing Co.</h3>
+        <h3>Name: Giant WaterProofing Co.</h3>
         <h3>A/C No: 50100279317630</h3>
         <h3>IFSC Code:HDFC0005386</h3>
     </div>
@@ -230,10 +223,10 @@ Giant Waterproofing Co.
     <div class="contact">
         <h3>Contact US</h3>
         <p class="contact-details">
-            Name: <span class="name">Rajnikant Barkhane</span>
-            Mobile: <span class="mobile">+916260363953</span>
+            Name: <span class="name">roybarkhane</span>
+            Mobile: <span class="mobile">+919111469300</span>
             Email: <span class="email">info@giant.com.co</span>
-            Website: <span class="website">www.giant.com.co</span>
+            Website: <span class="website">www.giantwaterproofing.in</span>
         </p>
     </div>
     <div class="footer">
