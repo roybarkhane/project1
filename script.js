@@ -223,7 +223,7 @@ Giant Waterproofing Co.
     <div class="contact">
         <h3>Contact US</h3>
         <p class="contact-details">
-            Name: <span class="name">roybarkhane</span>
+            Name: <span class="name">roy barkhane</span>
             Mobile: <span class="mobile">+919111469300</span>
             Email: <span class="email">info@giant.com.co</span>
             Website: <span class="website">www.giantwaterproofing.in</span>
