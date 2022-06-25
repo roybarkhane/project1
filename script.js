@@ -37,7 +37,7 @@ Giant Waterproofing Co.
 <p style="margin-top:20px;">
     <strong> Giant’s 7 Layer Waterproofing treatment </strong>is a Waterproofing technique designed and
     developed for a
-    complete <strong>waterproofing solution with leakage free warranty for 12 years.</strong> This system
+    complete <strong>waterproofing solution with leakage free warranty for 8 years.</strong> This system
     can be applied for
     Waterproofing on RCC surfaces, Side Walls, Asbestos sheets, Tin Sheets, Water Tanks etc
 </p>
